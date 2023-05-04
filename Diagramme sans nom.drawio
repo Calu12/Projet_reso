@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T12:53:05.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="vOGj2zIx6pJ5VZnZFWkh" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T13:10:04.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="O3jc_4al_AJVxKAR4cZz" version="21.2.3" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="880" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -150,10 +150,10 @@
         <mxCell id="qHxnZsuGqMzURwHlTCag-51" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Routeur 2&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="947.5" y="550" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qHxnZsuGqMzURwHlTCag-53" value="" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;exitX=0.436;exitY=0.164;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="qHxnZsuGqMzURwHlTCag-4" target="qHxnZsuGqMzURwHlTCag-62" edge="1">
+        <mxCell id="qHxnZsuGqMzURwHlTCag-53" value="" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;exitX=0.436;exitY=0.164;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="qHxnZsuGqMzURwHlTCag-4" target="Hdzp8GY85G4_MxQtlRsH-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="812.5000000000001" y="517" as="sourcePoint" />
-            <mxPoint x="809.5400000000001" y="365" as="targetPoint" />
+            <mxPoint x="745" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qHxnZsuGqMzURwHlTCag-57" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" parent="1" vertex="1">
@@ -209,6 +209,12 @@
         </mxCell>
         <mxCell id="Hdzp8GY85G4_MxQtlRsH-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;Fibre optique à gradiant d&#39;indice&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="940" y="230" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdzp8GY85G4_MxQtlRsH-2" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Switch1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="459" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdzp8GY85G4_MxQtlRsH-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Switch2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="704.5" y="520" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

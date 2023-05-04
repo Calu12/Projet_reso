@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T14:24:39.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="J9CKLyzLWjVdXPlsBYGx" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T14:45:04.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="zNuLQcjASb4NRfBTaPc-" version="21.2.3" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="880" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -218,6 +218,18 @@
             <mxPoint x="1018" y="654" as="sourcePoint" />
             <mxPoint x="1018" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdzp8GY85G4_MxQtlRsH-8" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall-page1_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1324" y="470.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdzp8GY85G4_MxQtlRsH-9" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="Hdzp8GY85G4_MxQtlRsH-8" target="qHxnZsuGqMzURwHlTCag-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="330" as="sourcePoint" />
+            <mxPoint x="1343" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdzp8GY85G4_MxQtlRsH-10" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Fire Wall 3&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1304" y="550.75" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
